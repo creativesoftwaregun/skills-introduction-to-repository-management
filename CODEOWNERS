@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @creativesoftwaregun
+/src/backend/database.py      @creativesoftwaregun
+/src/backend/routers/auth.py  @creativesoftwaregun
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @creativesoftwaregun
